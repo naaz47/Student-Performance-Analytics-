@@ -1,1 +1,39 @@
+# Student Performance Analytics System
 
+## 1. Objective
+To analyze student marks and attendance using Python, Pandas, NumPy, and Matplotlib.
+
+## 2. Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Google Colab
+- GitHub
+
+## 3. Dataset Description
+The project uses students.csv and contains student information, subject marks, and attendance.
+
+## 4. Implementation
+1. Load the dataset using Pandas.
+2. Calculate total and average marks.
+3. Assign grades based on average marks.
+4. Identify students who pass or fail.
+5. Calculate subject-wise statistics.
+6. Display the final student results.
+
+## 5. Key Features
+- Student marks analysis
+- Total and average calculation
+- Grade assignment
+- Pass/fail checking
+- Subject-wise analysis
+
+## 6. Output
+The system generates student performance results and helps analyze academic performance.
+
+## 7. Final Outcome
+The project demonstrates how Python libraries can be used to analyze student data.
+
+## 8. GitHub Repository
+Student Performance Analytics System
